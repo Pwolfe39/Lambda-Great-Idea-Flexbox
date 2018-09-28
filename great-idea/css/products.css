@@ -169,6 +169,29 @@ h1 {
 }
 
 
+@media (min-width: 600px) {
+    .product-categories {
+        width:;
+        height: auto; 
+    } 
+}
+
+
+@media (min-width: 800px) {
+    .product-categories-2 {
+        width: ;
+        height: auto;
+        
+    }
+}
+
+@media (min-width: 800px) {
+    .product-categories-3 {
+        width: ;
+        height: auto;
+        
+    }
+}
 
 
 
