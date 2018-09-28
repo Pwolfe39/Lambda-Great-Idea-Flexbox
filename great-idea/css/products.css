@@ -158,13 +158,15 @@ h1 {
 }
 
 .copyright {
-  display: inline-block;
-    
+    margin: 0 auto;
+    width: 1100px;
+    display: flex;
+    justify-content: center;
 }
 
-
-
-
+.copy-right {
+   margin-top: 60px;
+}
 
 
 
